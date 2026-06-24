@@ -2,7 +2,6 @@
 
 **Platform:** TryHackMe SOC Simulator  
 **Scenario:** Multi-stage phishing intrusion analysis  
-**Role:** SOC Analyst — Detection, Triage & Investigation
 
 ---
 
